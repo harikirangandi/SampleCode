@@ -358,11 +358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHubTask\\CoreAPI\\sampleApp\\sampleApp\\sampleApp.csproj",
+      "projectUniqueName": "C:\\Users\\harik\\OneDrive\\Desktop\\SampleApp\\sampleApp\\sampleApp.csproj",
       "projectName": "sampleApp",
-      "projectPath": "D:\\GitHubTask\\CoreAPI\\sampleApp\\sampleApp\\sampleApp.csproj",
+      "projectPath": "C:\\Users\\harik\\OneDrive\\Desktop\\SampleApp\\sampleApp\\sampleApp.csproj",
       "packagesPath": "C:\\Users\\harik\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHubTask\\CoreAPI\\sampleApp\\sampleApp\\obj\\",
+      "outputPath": "C:\\Users\\harik\\OneDrive\\Desktop\\SampleApp\\sampleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\harik\\AppData\\Roaming\\NuGet\\NuGet.Config",
